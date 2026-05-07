@@ -28,7 +28,7 @@ I bridge the gap between Software Development and Network Infrastructure.
 
 #### ⚙️ My Setup
 * **Laptop**: Dell G15 Ryzen Edition.
-  * **Specs**: Ryzen 5800H, RTX 3060, 32GB RAM, 512GB + 240GB NVMe.
+  * **Specs**: Ryzen 7 5800H, RTX 3060, 32GB RAM, 512GB + 240GB NVMe.
   * **OS**: Arch Linux ([Omarchy](https://omarchy.org/)) with separated home folder.
 * **Server:** Lenovo Tiny M70q.
   * **Specs**: Intel i5-10400T, UHD Graphics 630 (Integrated), 32GB RAM, 512GB SSD + 1TB external HDD (2x500).
