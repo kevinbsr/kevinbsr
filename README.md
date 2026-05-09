@@ -1,5 +1,5 @@
 ### Hi there, I'm Kevin! 👋
-**Software Engineer | Platform & DevOps Focus**
+**Software Engineer & DevOps**
 
 I bridge the gap between Software Development and Network Infrastructure.
 
