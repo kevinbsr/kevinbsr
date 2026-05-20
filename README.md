@@ -4,8 +4,8 @@
 I bridge the gap between Software Development and Network Infrastructure.
 
 - 🔭 I’m currently working on **building a bare-metal homelab and finishing my Software Engineering degree**.
-- 🌱 I’m currently focused on **AWS Solutions Architect, Kubernetes, and Laravel**, while building a solid academic foundation in **Java, C#, React, and Python**.
-- 🐧 My daily driver is **Arch Linux** (I use Hyprland, btw)
+- 🌱 I’m currently focused on **Amazon Web Services, DevOps and Infrastructure**, while building a solid academic foundation in **Java, C#, React, Python and more**.
+- 🐧 My daily driver is **Arch Linux** (I use Omarchy, btw)
 
 #### 🛠 Tech Stack
 
