@@ -1,7 +1,7 @@
 ### Hi there, I'm Kevin! 👋
 **Software Engineer & DevOps**
 
-I bridge the gap between Software Development and Network Infrastructure.
+I bridge the gap between Software Development and Infrastructure.
 
 - 🔭 I’m currently working on **building a bare-metal homelab and finishing my Software Engineering degree**.
 - 🌱 I’m currently focused on **Amazon Web Services, DevOps and Infrastructure**, while building a solid academic foundation in **Java, C#, React, Python and more**.
